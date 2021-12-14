@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 My email address is bolloo18@gmail.com
+- 📫 My email address is bolloaggrey@gmail.com
 
 <!---
 bollo-omar/bollo-omar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
