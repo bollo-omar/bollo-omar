@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bollo-omar
+Hi, my name is Bollo Aggrey. 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on open source projects
