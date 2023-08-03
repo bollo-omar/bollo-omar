@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/bollo-omar/bollo-omar/assets/16776166/ff991726-593f-40ae-ae14-1702df4975b8)
+![Header](https://github.com/bollo-omar/bollo-omar/assets/16776166/ff991726-593f-40ae-ae14-1702df4975b8)
 
 ## 🚀 About Me
 
