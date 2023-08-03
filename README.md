@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/bollo-omar/bollo-omar/assets/16776166/ff991726-593f-40ae-ae14-1702df4975b8)
+
 ## 🚀 About Me
 
 <p style="font-family: monospace, sans-serif; font-size: 11pt;">👋 Hi there,I'm Bollo Aggrey, a software developer based in Nairobi, Kenya. I specialize in JavaScript, Java,PHP, and C#, and have experience working with frameworks like React, Spring, and Laravel. My goal is to create innovative applications that meet user needs and solve complex business problems. I'm committed to continuously learning and staying up-to-date with the latest technologies and trends in software development.</p>
