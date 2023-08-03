@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-<p style="font-family: monospace, sans-serif; font-size: 11pt;">👋 Hi there,I'm Bollo Aggrey, a software developer based in Nairobi, Kenya. I specialize in JavaScript, Java, and PHP, and have experience working with frameworks like React, Spring, and Laravel. My goal is to create innovative applications that meet user needs and solve complex business problems. I'm committed to continuously learning and staying up-to-date with the latest technologies and trends in software development.</p>
+<p style="font-family: monospace, sans-serif; font-size: 11pt;">👋 Hi there,I'm Bollo Aggrey, a software developer based in Nairobi, Kenya. I specialize in JavaScript, Java,PHP, and C#, and have experience working with frameworks like React, Spring, and Laravel. My goal is to create innovative applications that meet user needs and solve complex business problems. I'm committed to continuously learning and staying up-to-date with the latest technologies and trends in software development.</p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bollo-omar&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="bollo-omar stats card" /></p>
 <a href="https://reactjs.org/" target="blank">
