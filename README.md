@@ -53,3 +53,5 @@ Tools and Other Skills: ![Git](https://img.shields.io/badge/-Git-F05032), ![API 
   - Phone: +254712482282.
 
 Feel free to connect with me on LinkedIn or check out my GitHub and Medium profiles to see some of my work! 😄
+
+![Profile Visits](https://komarev.com/ghpvc/?username=bollo-omar)
