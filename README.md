@@ -36,22 +36,6 @@ Frameworks: ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet), ![Node
 
 Tools and Other Skills: ![Git](https://img.shields.io/badge/-Git-F05032), ![API design](https://img.shields.io/badge/-API%20design-FF4400), ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-018F67), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248), ![Linux](https://img.shields.io/badge/-Linux-FCC624), ![Bash scripting](https://img.shields.io/badge/-Bash%20scripting-4EAA25), ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600).
 
-## Referees
-
-1. **WAPI CAPITAL**
-  - Alex Gikonyo - Lead Support Engineer
-  - Phone: +254721371740
-  - David Kiptoo – Head IT Department
-  - Phone: 0711499091
-
-2. **UCPRO LLP**
-  - Sadiya Barker – HR
-  - Email: sadiya@ucpro.in
-
-3. **LOGOON SYSTEMS**
-  - Elijah Mbugua - CEO
-  - Phone: +254712482282.
-
 Feel free to connect with me on LinkedIn or check out my GitHub and Medium profiles to see some of my work! 😄
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=bollo-omar)
