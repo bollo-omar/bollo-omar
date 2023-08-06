@@ -36,11 +36,6 @@ Frameworks: ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet), ![Node
 
 Tools and Other Skills: ![Git](https://img.shields.io/badge/-Git-F05032), ![API design](https://img.shields.io/badge/-API%20design-FF4400), ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-018F67), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248), ![Linux](https://img.shields.io/badge/-Linux-FCC624), ![Bash scripting](https://img.shields.io/badge/-Bash%20scripting-4EAA25), ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600).
 
-## Education
-
-- Nano Degree in Software Engineering | ALX Africa | Nairobi, Kenya | 08/2022 - 10/2023
-- Bachelor of Science in Information Technology | KCA University | Nairobi, Kenya | 05/2015 - Present
-
 ## Referees
 
 1. **WAPI CAPITAL**
