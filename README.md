@@ -31,11 +31,14 @@ Logoon Systems | Nairobi, Kenya | Part-time | Mar 2020 - Aug 2022
 
 ## **Skills**
 
-Languages: ![C#](https://img.shields.io/badge/-C%23-blue) ![Dart](https://img.shields.io/badge/-Dart-0175C2) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC) ![SQL](https://img.shields.io/badge/-SQL-4479A1).
+### Languages
+![C#](https://img.shields.io/badge/-C%23-blue) ![Dart](https://img.shields.io/badge/-Dart-0175C2) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC) ![SQL](https://img.shields.io/badge/-SQL-4479A1).
 
-Frameworks: ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Express](https://img.shields.io/badge/-Express-000000) ![React](https://img.shields.io/badge/-React-61DAFB) ![Angular](https://img.shields.io/badge/-Angular-red) ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E) ![Flutter](https://img.shields.io/badge/-Flutter-02569B).
+### Frameworks
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Express](https://img.shields.io/badge/-Express-000000) ![React](https://img.shields.io/badge/-React-61DAFB) ![Angular](https://img.shields.io/badge/-Angular-red) ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E) ![Flutter](https://img.shields.io/badge/-Flutter-02569B).
 
-Tools and Other Skills: ![Git](https://img.shields.io/badge/-Git-F05032) ![API design](https://img.shields.io/badge/-API%20design-FF4400) ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-018F67) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Linux](https://img.shields.io/badge/-Linux-FCC624) ![Bash scripting](https://img.shields.io/badge/-Bash%20scripting-4EAA25) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600).
+### Tools and Other Skills
+![Git](https://img.shields.io/badge/-Git-F05032) ![API design](https://img.shields.io/badge/-API%20design-FF4400) ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-018F67) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Linux](https://img.shields.io/badge/-Linux-FCC624) ![Bash scripting](https://img.shields.io/badge/-Bash%20scripting-4EAA25) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600).
 
 Feel free to connect with me on LinkedIn or explore my GitHub and Medium profiles to see some of my exciting projects! 😄
 
