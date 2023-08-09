@@ -40,13 +40,6 @@ Logoon Systems | Nairobi, Kenya | Part-time | Mar 2020 - Aug 2022
 ### Tools and Other Skills
 ![Git](https://img.shields.io/badge/-Git-F05032) ![API design](https://img.shields.io/badge/-API%20design-FF4400) ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-018F67) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Linux](https://img.shields.io/badge/-Linux-FCC624) ![Bash scripting](https://img.shields.io/badge/-Bash%20scripting-4EAA25) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600).
 
-### Not Used Languages
-
-Here are some languages that I have experience with but haven't used recently:
-
-![Python](https://img.shields.io/badge/-Python-3776AB)
-![Java](https://img.shields.io/badge/-Java-007396)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D)
 
 Feel free to connect with me on LinkedIn or explore my GitHub and Medium profiles to see some of my exciting projects! 😄
 
