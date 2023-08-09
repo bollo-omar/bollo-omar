@@ -6,7 +6,7 @@
 
 ## **Hello, I'm Aggrey!** 👋
 
-I'm Aggrey Omondi Bollo, a **Software Developer** with 3 years plus experience in developing scalable and maintainable software solutions. My passion lies in creating high-quality code and delivering reliable systems. With a strong understanding of modern web development frameworks and RESTful APIs, I am committed to creating successful solutions.
+I'm a **Software Developer** with 3 years plus experience in developing scalable and maintainable software solutions. My passion lies in creating high-quality code and delivering reliable systems. With a strong understanding of modern web development frameworks and RESTful APIs, I am committed to creating successful solutions.
 
 ## **Work Experience**
 
