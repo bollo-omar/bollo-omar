@@ -1,4 +1,4 @@
-# Portfolio - Aggrey Omondi Bollo
+# Welcome,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aggrey--bollo-blue)](https://www.linkedin.com/in/aggrey-bollo/)
 [![GitHub](https://img.shields.io/badge/GitHub-bollo--omar-lightgrey)](https://github.com/bollo-omar)
