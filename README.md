@@ -1,49 +1,61 @@
-# About Me,
+# 👋 Hey there, I'm Aggrey!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aggrey--bollo-blue)](https://www.linkedin.com/in/aggrey-bollo/)
-[![GitHub](https://img.shields.io/badge/GitHub-bollo--omar-lightgrey)](https://github.com/bollo-omar)
-[![Medium](https://img.shields.io/badge/Medium-bolloo18-green)](https://medium.com/@bolloo18)
+### 💻 Software Engineer | Building Scalable & Maintainable Systems
 
-## **Hello, I'm Aggrey!** 👋
+I am a software engineer with over **3 years of experience** designing, developing, and optimizing scalable applications. My expertise lies in **backend development, full-stack architecture, and API design**. I thrive on solving complex problems and crafting maintainable, high-performance solutions.
 
-I'm a **Software Developer** with 3 years plus experience in developing scalable and maintainable software solutions. My passion lies in creating high-quality code and delivering reliable systems. With a strong understanding of modern web development frameworks and RESTful APIs, I am committed to creating successful solutions.
+---
 
-## **Work Experience**
+## 🚀 Work Experience
 
-### **Software Developer**
-Wapi Capital | Nairobi, Kenya | Feb 2023 - Present
-- Collaborated cross-functionally to design, develop, and maintain robust software systems.
-- Conducted comprehensive code reviews and resolved complex issues.
-- Acted as a technical liaison between teams.
+### **Software Engineer**  
+**Wapi Pay | Nairobi, Kenya | Feb 2023 - Present**  
+- Maintain and enhance a **fintech platform** built with Angular.
+- Perform **QA testing**, debugging, and ensure high code quality.
+- Provide **technical support** for internal teams and end-users.
+- Conduct **code reviews** and mentor junior developers.
+- Develop and optimize backend and frontend features for better system performance.
+- **Tech Stack:** Angular, Node.js, Java, Spring Boot, PostgreSQL, MySQL, TypeScript, Docker.
 
-**STACK**: ![Angular](https://img.shields.io/badge/-Angular-red) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![C#](https://img.shields.io/badge/-C%23-blue) ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-blueviolet) ![Postgres](https://img.shields.io/badge/-Postgres-336791) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1) ![Typescript](https://img.shields.io/badge/-Typescript-007ACC).
+### **Web Developer**  
+**UCPro LLP | Bangalore, India | Remote | Nov 2021 - Mar 2023**  
+- Contributed to the development of **web applications** for clients in various industries.
+- Refactored and optimized existing codebases to improve **performance and maintainability**.
+- Collaborated with designers to translate **UI/UX wireframes into functional components**.
+- Built reusable **React components** and integrated REST APIs for seamless user experiences.
+- **Tech Stack:** React, MongoDB, Express, TypeScript, Node.js, Figma.
 
-### **Web Developer**
-UCPro LLP | Bangalore, India | Remote | Nov 2021 - Mar 2023
-- Revitalized a stalled project by leading a newly formed team.
-- Navigated intricate projects with unwavering commitment.
-  
-**STACK**: ![React](https://img.shields.io/badge/-React-61DAFB) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Express](https://img.shields.io/badge/-Express-000000) ![Typescript](https://img.shields.io/badge/-Typescript-007ACC) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Figma](https://img.shields.io/badge/-Figma-F24E1E).
+### **Backend Developer**  
+**Logoon Systems | Nairobi, Kenya | Part-time | Mar 2020 - Aug 2022**  
+- Developed and maintained **backend services** for the Genesys ERP system, specifically the student module.
+- Designed and optimized **RESTful APIs** for seamless integration with frontend systems.
+- Improved database **performance and query efficiency**, reducing response times by optimizing MySQL queries.
+- Worked closely with frontend developers to ensure smooth data flow and **API usability**.
+- Implemented **authentication and role-based access control** to enhance security.
+- **Tech Stack:** Java, Spring Boot, MySQL, Microprofile, Vue.js.
 
-### **Backend Developer**
-Logoon Systems | Nairobi, Kenya | Part-time | Mar 2020 - Aug 2022
-- Finalized the backend development of the students' module in the Genesys ERP system.
-- Efficiently implemented necessary functionalities within designated timeframes.
+---
 
-**STACK**: ![Java](https://img.shields.io/badge/-Java-007396) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1) ![Microprofile](https://img.shields.io/badge/-Microprofile-1B6AC6) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D).
+## 🛠️ Technical Skills
 
-## **Skills**
+### **Languages**  
+Java • Dart • JavaScript • TypeScript • SQL
 
-### Languages
-![C#](https://img.shields.io/badge/-C%23-blue) ![Dart](https://img.shields.io/badge/-Dart-0175C2) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC) ![SQL](https://img.shields.io/badge/-SQL-4479A1).
+### **Frameworks & Libraries**  
+Spring Boot • Node.js • Express • React • React Native • Angular • Nest.js • Flutter
 
-### Frameworks
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![Express](https://img.shields.io/badge/-Express-000000) ![React](https://img.shields.io/badge/-React-61DAFB) ![Angular](https://img.shields.io/badge/-Angular-red) ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E) ![Flutter](https://img.shields.io/badge/-Flutter-02569B).
+### **Tools & Technologies**  
+Git • API Design • Unit Testing • MongoDB • Linux • Bash Scripting • RabbitMQ • Docker
 
-### Tools and Other Skills
-![Git](https://img.shields.io/badge/-Git-F05032) ![API design](https://img.shields.io/badge/-API%20design-FF4400) ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-018F67) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Linux](https://img.shields.io/badge/-Linux-FCC624) ![Bash scripting](https://img.shields.io/badge/-Bash%20scripting-4EAA25) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600).
+### **Additional Skills**  
+C# • .NET
 
+---
 
-Feel free to connect with me on LinkedIn or explore my GitHub and Medium profiles to see some of my exciting projects! 😄
+## 📫 Let's Connect
+- **LinkedIn:** [Connect with me](#)
+- **GitHub:** [Explore my projects](#)
+- **Medium:** [Read my articles](#)
 
-![Profile Visits](https://komarev.com/ghpvc/?username=bollo-omar)
+🚀 Open to collaborating on exciting projects and sharing knowledge!
+
