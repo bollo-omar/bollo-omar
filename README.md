@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aggrey Omondi Bollo  
 
-**Software Engineer | Full-Stack Developer | SaaS Builder**
+**Software Engineer
 
 I design and build **scalable applications** with a focus on **healthcare, fintech, and enterprise SaaS platforms**. My work involves creating reliable, production-ready systems that handle real-world needs such as **multi-tenant SaaS, secure medical records, and payment integrations**.  
 
